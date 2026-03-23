@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Local dev server artefacts
+node_modules/
+.cache/
+
+# Env / secrets
+.env
+.env.local
